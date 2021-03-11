@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/aman1998/google-map-search/static/js/main.9b04a9d1.chunk.js",
+    "main.js.map": "/aman1998/google-map-search/static/js/main.9b04a9d1.chunk.js.map",
+    "runtime-main.js": "/aman1998/google-map-search/static/js/runtime-main.292d25a9.js",
+    "runtime-main.js.map": "/aman1998/google-map-search/static/js/runtime-main.292d25a9.js.map",
+    "static/js/2.041fa5b9.chunk.js": "/aman1998/google-map-search/static/js/2.041fa5b9.chunk.js",
+    "static/js/2.041fa5b9.chunk.js.map": "/aman1998/google-map-search/static/js/2.041fa5b9.chunk.js.map",
+    "index.html": "/aman1998/google-map-search/index.html",
+    "static/js/2.041fa5b9.chunk.js.LICENSE.txt": "/aman1998/google-map-search/static/js/2.041fa5b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292d25a9.js",
+    "static/js/2.041fa5b9.chunk.js",
+    "static/js/main.9b04a9d1.chunk.js"
+  ]
+}
